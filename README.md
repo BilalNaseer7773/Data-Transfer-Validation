@@ -21,5 +21,3 @@ This project facilitates secure data transfer and validation of files. It uses S
 ## Requirements
 - Python 3.x
 - `paramiko` for SFTP.
-
-
